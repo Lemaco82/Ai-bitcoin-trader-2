@@ -1,0 +1,7 @@
+python-binance
+pandas
+numpy
+ta-lib
+requests
+python-dotenv
+discord.py
